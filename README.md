@@ -44,6 +44,8 @@ Contains transparent organizational information:
 - Public records
 - Organizational statistics
 
+
+---
 ## 🤝 Our Commitment
 
 At Unite Wings, we believe that **transparency builds trust**. By making our organizational data publicly accessible, we demonstrate our commitment to:
@@ -52,6 +54,9 @@ At Unite Wings, we believe that **transparency builds trust**. By making our org
 - **Trust** - Stakeholders can verify our claims and practices
 - **Community** - Everyone has access to the information they need
 - **Integrity** - We have nothing to hide and everything to share
+
+
+---
 
 ## 🚀 Getting Started
 
@@ -69,13 +74,7 @@ At Unite Wings, we believe that **transparency builds trust**. By making our org
 https://raw.githubusercontent.com/unitewings/Public-Data/main/<file path/name>
 ```
 
-### Using the Logo Assets
-
-Please refer to our brand guidelines when using Unite Wings logos. All logo files are available in multiple formats to suit your needs:
-
-- Use **SVG** for websites and applications requiring scalability
-- Use **PNG** for presentations and documents
-- Use **ICO** for application icons and favicons
+---
 
 ## 👥 Contributors
 
@@ -93,6 +92,7 @@ Please refer to our brand guidelines when using Unite Wings logos. All logo file
   </tr>
 </table>
 
+---
 ## 📞 Contact & Support
 
 Have questions or suggestions? We'd love to hear from you!
@@ -101,6 +101,7 @@ Have questions or suggestions? We'd love to hear from you!
 - **Email**: Contact us at <a href="mailto:hello@unitewings.com"> hello@unitewings.com </a>
 - **LinkedIn**: Connect on <a href="https://www.linkedin.com/company/unite-wings/"> Unite-Wings </a>
 
+---
 ## ⭐ Show Your Support
 
 If you appreciate our commitment to transparency, please consider:
@@ -111,6 +112,6 @@ If you appreciate our commitment to transparency, please consider:
 ---
 
 <div align="center">
-    <p>Made with ❤️ by the Unite Wings Team</p>
+    <p>Made with ❤️ by <a href="https://www.linkedin.com/in/sakshamjoshi27">Saksham Joshi</a></p>
     <p>© 2024 Unite Wings. All rights reserved.</p>
 </div>
