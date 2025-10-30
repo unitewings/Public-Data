@@ -21,28 +21,16 @@ Welcome to the **Unite Wings Public Data Repository**! This repository serves as
 
 ## 📂 Repository Structure
 
-Our repository is organized into three main directories:
+### Our repository is organized into three main directories:
 
 ### 1. 🎨 **Logo**
-Contains brand assets and visual identity materials:
-- **PNG** format - For general use and web applications
-- **SVG** format - For scalable vector graphics
-- **ICO** format - For favicon and application icons
+> Contains brand assets and visual identity materials in **PNG**, **ICO** and **SVG** formats.
 
 ### 2. 📄 **Docs**
-Houses all legal and official documentation:
-- Terms of service
-- Privacy policies
-- Legal agreements
-- Compliance documents
-- Organizational bylaws
+> Houses all legal and official documentation like **Terms of service**, **Privacy policies**, **Legal agreements**, **Compliance documents**, **Organizational bylaws** etc.
 
 ### 3. 📊 **Data**
-Contains transparent organizational information:
-- Employee directory
-- Team structure
-- Public records
-- Organizational statistics
+> Contains transparent organizational information like **Employee directory**, **Team structure**, **Public records**, **Organizational statistics** etc.
 
 
 ---
