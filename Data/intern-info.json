@@ -258,7 +258,7 @@
   "start-date (Y-M-D)": "2025-5-12",
   "end-date (Y-M-D)": "2025-11-9",
   "duration(in days)": "180.0",
-  "certificate-issued": false
+  "certificate-issued": true
  },
  "UW-2400034": {
   "certificate-num": "UW-2400034",
@@ -267,6 +267,6 @@
   "start-date (Y-M-D)": "2025-5-12",
   "end-date (Y-M-D)": "2025-11-9",
   "duration(in days)": "180.0",
-  "certificate-issued": false
+  "certificate-issued": true
  }
 }
